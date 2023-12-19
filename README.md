@@ -1,7 +1,6 @@
 # Weather App
 
-Welcome to the Weather App project! This application provides [brief description of what the app does].
-
+Welcome to the Weather App project!
 ## Developers
 
 - Amine Mahjoub
